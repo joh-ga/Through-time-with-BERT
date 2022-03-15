@@ -1,0 +1,1481 @@
+Simple Present Tense: He goes to work.
+Present Continuous Tense: He is going to work.
+Present Perfect Tense: He has gone to work.
+Present Perfect Continuous Tense: He has been going to work.
+Simple Past Tense: He went to work.
+Past Continuous Tense: He was going to work.
+Past Perfect Tense: He had gone to work.
+Past Perfect Continuous Tense: He had been going to work.
+Simple Future Tense: He will go to work.
+Future Continuous Tense: He will be going to work.
+Future Perfect Tense: He will have gone to work.
+Future Perfect Continuous Tense: He will have been going to work.
+
+Simple Present Tense: He drinks a glass of water.
+Present Continuous Tense: He is drinking a glass of water.
+Present Perfect Tense: He has drunk a glass of water.
+Present Perfect Continuous Tense: He has been drinking a glass of water.
+Simple Past Tense: He drank a glass of water.
+Past Continuous Tense: He was drinking a glass of water.
+Past Perfect Tense: He had drunk a glass of water.
+Past Perfect Continuous Tense: He had been drinking a glass of water.
+Simple Future Tense: He will drink a glass of water.
+Future Continuous Tense: He will be drinking a glass of water.
+Future Perfect Tense: He will have drunk a glass of water.
+Future Perfect Continuous Tense: He will have been drinking a glass of water.
+
+Simple Present Tense: He reads a book.
+Present Continuous Tense: He is reading a book.
+Present Perfect Tense: He has read a book.
+Present Perfect Continuous Tense: He has been reading a book.
+Simple Past Tense: He read a book.
+Past Continuous Tense: He was reading a book.
+Past Perfect Tense: He had read a book.
+Past Perfect Continuous Tense: He had been reading a book.
+Simple Future Tense: He will read a book.
+Future Continuous Tense: He will be reading a book.
+Future Perfect Tense: He will have read a book.
+Future Perfect Continuous Tense: He will have been reading a book.
+  
+Simple Present Tense: He has a car.
+Present Continuous Tense: He is having a car.
+Present Perfect Tense: He has had a car.
+Present Perfect Continuous Tense: He has been having a car.
+Simple Past Tense: He had a car.
+Past Continuous Tense: He was having a car.
+Past Perfect Tense: He had had a car.
+Past Perfect Continuous Tense: He had been having a car.
+Simple Future Tense: He will have a car.
+Future Continuous Tense: He will be having a car.
+Future Perfect Tense: He will have had a car.
+Future Perfect Continuous Tense: He will have been having a car.
+
+Simple Present Tense: He says he is going to work.
+Present Continuous Tense: He is saying he is going to work.
+Present Perfect Tense: He has said he is going to work.
+Present Perfect Continuous Tense: He has been saying he is going to work.
+Simple Past Tense: He said he was going to work.
+Past Continuous Tense: He was saying he was going to work.
+Past Perfect Tense: He had said he was going to work.
+Past Perfect Continuous Tense: He had been saying he was going to work.
+Simple Future Tense: He will say he is going to work.
+Future Continuous Tense: He will be saying he is going to work.
+Future Perfect Tense: He will have said he is going to work.
+Future Perfect Continuous Tense: He will have been saying he is going to work.
+
+Simple Present Tense: He does not go to work.
+Present Continuous Tense: He is not going to work.
+Present Perfect Tense: He has not gone to work.
+Present Perfect Continuous Tense: He has not been going to work.
+Simple Past Tense: He did not go to work.
+Past Continuous Tense: He was not going to work.
+Past Perfect Tense: He had not gone to work.
+Past Perfect Continuous Tense: He had not been going to work.
+Simple Future Tense: He will not go to work.
+Future Continuous Tense: He will not be going to work.
+Future Perfect Tense: He will not have gone to work.
+Future Perfect Continuous Tense: He will not have been going to work.
+
+Simple Present Tense: He writes a letter.
+Present Continuous Tense: He is writing a letter.
+Present Perfect Tense: He has written a letter.
+Present Perfect Continuous Tense: He has been writing a letter.
+Simple Past Tense: He wrote a letter.
+Past Continuous Tense: He was writing a letter.
+Past Perfect Tense: He had written a letter.
+Past Perfect Continuous Tense: He had been writing a letter.
+Simple Future Tense: He will write a letter.
+Future Continuous Tense: He will be writing a letter.
+Future Perfect Tense: He will have written a letter.
+Future Perfect Continuous Tense: He will have been writing a letter.
+
+Simple Present Tense: He looks at the sky.
+Present Continuous Tense: He is looking at the sky.
+Present Perfect Tense: He has looked at the sky.
+Present Perfect Continuous Tense: He has been looking at the sky.
+Simple Past Tense: He looked at the sky.
+Past Continuous Tense: He was looking at the sky.
+Past Perfect Tense: He had looked at the sky.
+Past Perfect Continuous Tense: He had been looking at the sky.
+Simple Future Tense: He will look at the sky.
+Future Continuous Tense: He will be looking at the sky.
+Future Perfect Tense: He will have looked at the sky.
+Future Perfect Continuous Tense: He will have been looking at the sky.
+
+Simple Present Tense: She eats a sandwich.
+Present Continuous Tense: She is eating a sandwich.
+Present Perfect Tense: She has eaten a sandwich.
+Present Perfect Continuous Tense: She has been eating a sandwich.
+Simple Past Tense: She ate a sandwich.
+Past Continuous Tense: She was eating a sandwich.
+Past Perfect Tense: She had eaten a sandwich.
+Past Perfect Continuous Tense: She had been eating a sandwich.
+Simple Future Tense: She will eat a sandwich.
+Future Continuous Tense: She will be eating a sandwich.
+Future Perfect Tense: She will have eaten a sandwich.
+Future Perfect Continuous Tense: She will have been eating a sandwich.
+
+Simple Present Tense: He lives in a flat.
+Present Continuous Tense: He is living in a flat.
+Present Perfect Tense: He has lived in a flat.
+Present Perfect Continuous Tense: He has been living in a flat.
+Simple Past Tense: He lived in a flat.
+Past Continuous Tense: He was living in a flat.
+Past Perfect Tense: He had lived in a flat.
+Past Perfect Continuous Tense: He had been living in a flat.
+Simple Future Tense: He will live in a flat.
+Future Continuous Tense: He will be living in a flat.
+Future Perfect Tense: He will have lived in a flat.
+Future Perfect Continuous Tense: He will have been living in a flat.
+
+Simple Present Tense: He likes music.
+Present Continuous Tense: He is liking music.
+Present Perfect Tense: He has liked music.
+Present Perfect Continuous Tense: He has been liking music.
+Simple Past Tense: He liked music.
+Past Continuous Tense: He was liking music.
+Past Perfect Tense: He had liked music.
+Past Perfect Continuous Tense: He had been liking music.
+Simple Future Tense: He will like music.
+Future Continuous Tense: He will be liking music.
+Future Perfect Tense: He will have liked music.
+Future Perfect Continuous Tense: He will have been liking music.
+
+Simple Present Tense: He sits on the chair.
+Present Continuous Tense: He is sitting on the chair.
+Present Perfect Tense: He has sat on the chair.
+Present Perfect Continuous Tense: He has been sitting on the chair.
+Simple Past Tense: He sat on the chair.
+Past Continuous Tense: He was sitting on the chair.
+Past Perfect Tense: He had sat on the chair.
+Past Perfect Continuous Tense: He had been sitting on the chair.
+Simple Future Tense: He will sit on the chair.
+Future Continuous Tense: He will be sitting on the chair.
+Future Perfect Tense: He will have sat on the chair.
+Future Perfect Continuous Tense: He will have been sitting on the chair.
+
+Simple Present Tense: She sings a song.
+Present Continuous Tense: She is singing the song.
+Present Perfect Tense: She has sung the song.
+Present Perfect Continuous Tense: She has been singing my song.
+Simple Past Tense: She sang the song.
+Past Continuous Tense: She was singing a song.
+Past Perfect Tense: She had sung the song.
+Past Perfect Continuous Tense: She had been singing the song.
+Simple Future Tense: She will sing a song.
+Future Continuous Tense: She will be singing the song.
+Future Perfect Tense: She will have sung the song.
+Future Perfect Continuous Tense: She will have been singing the song.
+
+Simple Present Tense: He does his homework.
+Present Continuous Tense: He is doing his homework.
+Present Perfect Tense: He has done his homework.
+Present Perfect Continuous Tense: He has been doing his homework.
+Simple Past Tense: He did his homework.
+Past Continuous Tense: He was doing his homework.
+Past Perfect Tense: He had done his homework.
+Past Perfect Continuous Tense: He had been doing his homework.
+Simple Future Tense: He will do his homework.
+Future Continuous Tense: He will be doing his homework.
+Future Perfect Tense: He will have done his homework.
+Future Perfect Continuous Tense: He will have been doing his homework.
+
+Simple Present Tense: He teaches a class.
+Present Continuous Tense: He is teaching a class.
+Present Perfect Tense: He has taught a class.
+Present Perfect Continuous Tense: He has been teaching a class.
+Simple Past Tense: He taught a class.
+Past Continuous Tense: He was teaching a class.
+Past Perfect Tense: He had taught a class.
+Past Perfect Continuous Tense: He had been teaching a class.
+Simple Future Tense: He will teach a class.
+Future Continuous Tense: He will be teaching a class.
+Future Perfect Tense: He will have taught a class.
+Future Perfect Continuous Tense: He will have been teaching a class.
+
+Simple Present Tense: He is a teacher.
+Present Continuous Tense: He is being a teacher.
+Present Perfect Tense: He has been a teacher.
+Present Perfect Continuous Tense: He has been being a teacher.
+Simple Past Tense: He was a teacher.
+Past Continuous Tense: He was being a teacher.
+Past Perfect Tense: He had been a teacher.
+Past Perfect Continuous Tense: He had been being a teacher.
+Simple Future Tense: He will be a teacher.
+Future Continuous Tense: He will be being a teacher.
+Future Perfect Tense: He will have been a teacher.
+Future Perfect Continuous Tense: He will have been being a teacher.
+
+Simple Present Tense: He paints the wall.
+Present Continuous Tense: He is painting the wall.
+Present Perfect Tense: He has painted the wall.
+Present Perfect Continuous Tense: He has been painting the wall.
+Simple Past Tense: He painted the wall.
+Past Continuous Tense: He was painting the wall.
+Past Perfect Tense: He had painted the wall.
+Past Perfect Continuous Tense: He had been painting the wall.
+Simple Future Tense: He will paint the wall.
+Future Continuous Tense: He will be painting the wall.
+Future Perfect Tense: He will have painted the wall.
+Future Perfect Continuous Tense: He will have been painting the wall.
+
+Simple Present Tense: He knows the answer.
+Present Continuous Tense: He is knowing the answer.
+Present Perfect Tense: He has known the answer.
+Present Perfect Continuous Tense: He has been knowing the answer.
+Simple Past Tense: He knew the answer.
+Past Continuous Tense: He was knowing the answer.
+Past Perfect Tense: He had known the answer.
+Past Perfect Continuous Tense: He had been knowing the answer.
+Simple Future Tense: He will know the answer.
+Future Continuous Tense: He will be knowing the answer.
+Future Perfect Tense: He will have known the answer.
+Future Perfect Continuous Tense: He will have been knowing the answer.
+
+Simple Present Tense: She goes to school.
+Present Continuous Tense: She is going to school.
+Present Perfect Tense: She has gone to school.
+Present Perfect Continuous Tense: She has been going to school.
+Simple Past Tense: She went to school.
+Past Continuous Tense: She was going to school.
+Past Perfect Tense: She had gone to school.
+Past Perfect Continuous Tense: She had been going to school.
+Simple Future Tense: She will go to school.
+Future Continuous Tense: She will be going to school.
+Future Perfect Tense: She will have gone to school.
+Future Perfect Continuous Tense: She will have been going to school.
+
+Simple Present Tense: He watches TV.
+Present Continuous Tense: He is watching TV.
+Present Perfect Tense: He has been watching TV.
+Present Perfect Continuous Tense: He has been watching TV.
+Simple Past Tense: He watched TV.
+Past Continuous Tense: He was watching TV.
+Past Perfect Tense: He had watched TV.
+Past Perfect Continuous Tense: He had been watching TV.
+Simple Future Tense: He will watch TV.
+Future Continuous Tense: He will be watching TV.
+Future Perfect Tense: He will have watched TV.
+Future Perfect Continuous Tense: He will have been watching TV.
+
+Simple Present Tense: He plays football.
+Present Continuous Tense: He is playing football.
+Present Perfect Tense: He has played football.
+Present Perfect Continuous Tense: He has been playing football.
+Simple Past Tense: He played football.
+Past Continuous Tense: He was playing football.
+Past Perfect Tense: He had played football.
+Past Perfect Continuous Tense: He had been playing football.
+Simple Future Tense: He will play football.
+Future Continuous Tense: He will be playing football.
+Future Perfect Tense: He will have played football.
+Future Perfect Continuous Tense: He will have been playing football.
+
+Simple Present Tense: He takes the bus.
+Present Continuous Tense: He is taking the bus.
+Present Perfect Tense: He has taken the bus.
+Present Perfect Continuous Tense: He has been taking the bus.
+Simple Past Tense: He took the bus.
+Past Continuous Tense: He was taking the bus.
+Past Perfect Tense: He had taken the bus.
+Past Perfect Continuous Tense: He had been taking the bus.
+Simple Future Tense: He will take the bus.
+Future Continuous Tense: He will be taking the bus.
+Future Perfect Tense: He will have taken the bus.
+Future Perfect Continuous Tense: He will have been taking the bus.
+
+Simple Present Tense: She dances.
+Present Continuous Tense: She is dancing.
+Present Perfect Tense: She has danced.
+Present Perfect Continuous Tense: She has been dancing.
+Simple Past Tense: She danced.
+Past Continuous Tense: She was dancing.
+Past Perfect Tense: She had danced.
+Past Perfect Continuous Tense: She had been dancing.
+Simple Future Tense: She will dance.
+Future Continuous Tense: She will be dancing.
+Future Perfect Tense: She will have danced.
+Future Perfect Continuous Tense: She will have been dancing.
+
+Simple Present Tense: He laughs.
+Present Continuous Tense: He is laughing.
+Present Perfect Tense: He has laughed.
+Present Perfect Continuous Tense: He has been laughing.
+Simple Past Tense: He laughed.
+Past Continuous Tense: He was laughing.
+Past Perfect Tense: He had laughed.
+Past Perfect Continuous Tense: He had been laughing.
+Simple Future Tense: He will laugh.
+Future Continuous Tense: He will be laughing.
+Future Perfect Tense: He will have laughed.
+Future Perfect Continuous Tense: He will have been laughing.
+
+Simple Present Tense: She plays.
+Present Continuous Tense: She is playing.
+Present Perfect Tense: She has played.
+Present Perfect Continuous Tense: She has been playing.
+Simple Past Tense: She played.
+Past Continuous Tense: She was playing.
+Past Perfect Tense: She had played.
+Past Perfect Continuous Tense: She had been playing.
+Simple Future Tense: She will play.
+Future Continuous Tense: She will be playing.
+Future Perfect Tense: She will have played.
+Future Perfect Continuous Tense: She will have been playing.
+
+Simple Present Tense: She runs.
+Present Continuous Tense: She is running.
+Present Perfect Tense: She has run.
+Present Perfect Continuous Tense: She has been running.
+Simple Past Tense: She ran.
+Past Continuous Tense: She was running.
+Past Perfect Tense: She had run.
+Past Perfect Continuous Tense: She had been running.
+Simple Future Tense: She will run.
+Future Continuous Tense: She will be running.
+Future Perfect Tense: She will have run.
+Future Perfect Continuous Tense: She will have been running.
+
+Simple Present Tense: She works.
+Present Continuous Tense: She is working.
+Present Perfect Tense: She has worked.
+Present Perfect Continuous Tense: She has been working.
+Simple Past Tense: She worked.
+Past Continuous Tense: She was working.
+Past Perfect Tense: She had worked.
+Past Perfect Continuous Tense: She had been working.
+Simple Future Tense: She will work.
+Future Continuous Tense: She will be working.
+Future Perfect Tense: She will have worked.
+Future Perfect Continuous Tense: She will have been working.
+
+Simple Present Tense: She walks.
+Present Continuous Tense: She is walking.
+Present Perfect Tense: She has walked.
+Present Perfect Continuous Tense: She has been walking.
+Simple Past Tense: She walked.
+Past Continuous Tense: She was walking.
+Past Perfect Tense: She had walked.
+Past Perfect Continuous Tense: She had been walking.
+Simple Future Tense: She will walk.
+Future Continuous Tense: She will be walking.
+Future Perfect Tense: She will have walked.
+Future Perfect Continuous Tense: She will have been walking.
+
+Simple Present Tense: He swims.
+Present Continuous Tense: He is swimming.
+Present Perfect Tense: He has swum.
+Present Perfect Continuous Tense: He has been swimming.
+Simple Past Tense: He swam.
+Past Continuous Tense: He was swimming.
+Past Perfect Tense: He had swum.
+Past Perfect Continuous Tense: He had been swimming.
+Simple Future Tense: He will swim.
+Future Continuous Tense: He will be swimming.
+Future Perfect Tense: He will have swum.
+Future Perfect Continuous Tense: He will have been swimming.
+
+Simple Present Tense: He sees.
+Present Continuous Tense: He is seeing.
+Present Perfect Tense: He has seen.
+Present Perfect Continuous Tense: He has been seeing.
+Simple Past Tense: He saw.
+Past Continuous Tense: He was seeing.
+Past Perfect Tense: He had seen.
+Past Perfect Continuous Tense: He had been seeing.
+Simple Future Tense: He will see.
+Future Continuous Tense: He will be seeing.
+Future Perfect Tense: He will have seen.
+Future Perfect Continuous Tense: He will have been seeing.
+
+Simple Present Tense: He hears.
+Present Continuous Tense: He is hearing.
+Present Perfect Tense: He has heard.
+Present Perfect Continuous Tense: He has been hearing.
+Simple Past Tense: He heard.
+Past Continuous Tense: He was hearing.
+Past Perfect Tense: He had heard.
+Past Perfect Continuous Tense: He had been hearing.
+Simple Future Tense: He will hear.
+Future Continuous Tense: He will be hearing.
+Future Perfect Tense: He will have heard.
+Future Perfect Continuous Tense: He will have been hearing.
+
+Simple Present Tense: She trains.
+Present Continuous Tense: She is training.
+Present Perfect Tense: She has trained.
+Present Perfect Continuous Tense: She has been training.
+Simple Past Tense: She trained.
+Past Continuous Tense: She was training.
+Past Perfect Tense: She had trained.
+Past Perfect Continuous Tense: She had been training.
+Simple Future Tense: She will train.
+Future Continuous Tense: She will be training.
+Future Perfect Tense: She will have trained.
+Future Perfect Continuous Tense: She will have been training.
+
+Simple Present Tense: It breaks.
+Present Continuous Tense: It is breaking.
+Present Perfect Tense: It has broken.
+Present Perfect Continuous Tense: It has been breaking.
+Simple Past Tense: It broke.
+Past Continuous Tense: It was breaking.
+Past Perfect Tense: It had broken.
+Past Perfect Continuous Tense: It had been breaking.
+Simple Future Tense: It will break.
+Future Continuous Tense: It will be breaking.
+Future Perfect Tense: It will have broken.
+Future Perfect Continuous Tense: It will have been breaking.
+
+Simple Present Tense: It rains.
+Present Continuous Tense: It is raining.
+Present Perfect Tense: It has rained.
+Present Perfect Continuous Tense: It has been raining.
+Simple Past Tense: It rained.
+Past Continuous Tense: It was raining.
+Past Perfect Tense: It had rained.
+Past Perfect Continuous Tense: It had been raining.
+Simple Future Tense: It will rain.
+Future Continuous Tense: It will be raining.
+Future Perfect Tense: It will have rained.
+Future Perfect Continuous Tense: It will have been raining.
+
+Simple Present Tense: She loves.
+Present Continuous Tense: She is loving.
+Present Perfect Tense: She has loved.
+Present Perfect Continuous Tense: She has been loving.
+Simple Past Tense: She loved.
+Past Continuous Tense: She was loving.
+Past Perfect Tense: She had loved.
+Past Perfect Continuous Tense: She had been loving.
+Simple Future Tense: She will love.
+Future Continuous Tense: She will be loving.
+Future Perfect Tense: She will have loved.
+Future Perfect Continuous Tense: She will have been loving.
+
+Simple Present Tense: She repeats it.
+Present Continuous Tense: She is repeating it.
+Present Perfect Tense: She has repeated it.
+Present Perfect Continuous Tense: She has been repeating it.
+Simple Past Tense: She repeated it.
+Past Continuous Tense: She was repeating it.
+Past Perfect Tense: She had repeated it.
+Past Perfect Continuous Tense: She had been repeating it.
+Simple Future Tense: She will repeat it.
+Future Continuous Tense: She will be repeating it.
+Future Perfect Tense: She will have repeated it.
+Future Perfect Continuous Tense: She will have been repeating it.
+
+Simple Present Tense: She asks for help.
+Present Continuous Tense: She is asking for help.
+Present Perfect Tense: She has asked for help.
+Present Perfect Continuous Tense: She has been asking for help.
+Simple Past Tense: She asked for help.
+Past Continuous Tense: She was asking for help.
+Past Perfect Tense: She had asked for help.
+Past Perfect Continuous Tense: She had been asking for help.
+Simple Future Tense: She will ask for help.
+Future Continuous Tense: She will be asking for help.
+Future Perfect Tense: She will have asked for help.
+Future Perfect Continuous Tense: She will have been asking for help. 
+
+Simple Present Tense: He thinks about it.
+Present Continuous Tense: He is thinking about it.
+Present Perfect Tense: He has thought about it.
+Present Perfect Continuous Tense: He has been thinking about it.
+Simple Past Tense: He thought about it.
+Past Continuous Tense: He was thinking about it.
+Past Perfect Tense: He had thought about it.
+Past Perfect Continuous Tense: He had been thinking about it.
+Simple Future Tense: He will think about it.
+Future Continuous Tense: He will be thinking about it.
+Future Perfect Tense: He will have thought about it.
+Future Perfect Continuous Tense: He will have been thinking about it. 
+
+Simple Present Tense: She learns about it.
+Present Continuous Tense: She is learning about it.
+Present Perfect Tense: She has learned about it.
+Present Perfect Continuous Tense: She has been learning about it.
+Simple Past Tense: She learned about it.
+Past Continuous Tense: She was learning about it.
+Past Perfect Tense: She had learned about it.
+Past Perfect Continuous Tense: She had been learning about it.
+Simple Future Tense: She will learn about it.
+Future Continuous Tense: She will be learning about it.
+Future Perfect Tense: She will have learned about it.
+Future Perfect Continuous Tense: She will have been learning about it. 
+
+Simple Present Tense: He talks about it.
+Present Continuous Tense: He is talking about it.
+Present Perfect Tense: He has talked about it.
+Present Perfect Continuous Tense: He has been talking about it.
+Simple Past Tense: He talked about it.
+Past Continuous Tense: He was talking about it.
+Past Perfect Tense: He had talked about it.
+Past Perfect Continuous Tense: He had been talking about it.
+Simple Future Tense: He will talk about it.
+Future Continuous Tense: He will be talking about it.
+Future Perfect Tense: He will have talked about it.
+Future Perfect Continuous Tense: He will have been talking about it. 
+
+Simple Present Tense: She hears the music.
+Present Continuous Tense: She is hearing the music.
+Present Perfect Tense: She has heard the music.
+Present Perfect Continuous Tense: She has been hearing the music.
+Simple Past Tense: She heard the music.
+Past Continuous Tense: She was hearing the music.
+Past Perfect Tense: She had heard the music.
+Past Perfect Continuous Tense: She had been hearing the music.
+Simple Future Tense: She will hear the music.
+Future Continuous Tense: She will be hearing the music.
+Future Perfect Tense: She will have heard the music.
+Future Perfect Continuous Tense: She will have been hearing the music.
+
+Simple Present Tense: She wants to go.
+Present Continuous Tense: She is wanting to go.
+Present Perfect Tense: She has wanted to go.
+Present Perfect Continuous Tense: She has been wanting to go.
+Simple Past Tense: She wanted to go.
+Past Continuous Tense: She was wanting to go.
+Past Perfect Tense: She had wanted to go.
+Past Perfect Continuous Tense: She had been wanting to go.
+Simple Future Tense: She will want to go.
+Future Continuous Tense: She will be wanting to go.
+Future Perfect Tense: She will have wanted to go.
+Future Perfect Continuous Tense: She will have been wanting to go.
+
+Simple Present Tense: She speaks to him.
+Present Continuous Tense: She is speaking to him.
+Present Perfect Tense: She has spoken to him.
+Present Perfect Continuous Tense: She has been speaking to him.
+Simple Past Tense: She spoke to him.
+Past Continuous Tense: She was speaking to him.
+Past Perfect Tense: She had spoken to him.
+Past Perfect Continuous Tense: She had been speaking to him.
+Simple Future Tense: She will speak to him.
+Future Continuous Tense: She will be speaking to him.
+Future Perfect Tense: She will have spoken to him.
+Future Perfect Continuous Tense: She will have been speaking to him.
+
+Simple Present Tense: She comes to the party.
+Present Continuous Tense: She is coming to the party.
+Present Perfect Tense: She has come to the party.
+Present Perfect Continuous Tense: She has been coming to the party.
+Simple Past Tense: She came to the party.
+Past Continuous Tense: She was coming to the party.
+Past Perfect Tense: She had come to the party.
+Past Perfect Continuous Tense: She had been coming to the party.
+Simple Future Tense: She will come to the party.
+Future Continuous Tense: She will be coming to the party.
+Future Perfect Tense: She will have come to the party.
+Future Perfect Continuous Tense: She will have been coming to the party.
+
+Simple Present Tense: She drives a car.
+Present Continuous Tense: She is driving a car.
+Present Perfect Tense: She has driven a car.
+Present Perfect Continuous Tense: She has been driving a car.
+Simple Past Tense: She drove a car.
+Past Continuous Tense: She was driving a car.
+Past Perfect Tense: She had driven a car.
+Past Perfect Continuous Tense: She had been driving a car.
+Simple Future Tense: She will drive a car.
+Future Continuous Tense: She will be driving a car.
+Future Perfect Tense: She will have driven a car.
+Future Perfect Continuous Tense: She will have been driving a car.
+
+Simple Present Tense: He flies a plane.
+Present Continuous Tense: He is flying a plane.
+Present Perfect Tense: He has flown a plane.
+Present Perfect Continuous Tense: He has been flying a plane.
+Simple Past Tense: He flew a plane.
+Past Continuous Tense: He was flying a plane.
+Past Perfect Tense: He had flown a plane.
+Past Perfect Continuous Tense: He had been flying a plane.
+Simple Future Tense: He will fly a plane.
+Future Continuous Tense: He will be flying a plane.
+Future Perfect Tense: He will have flown a plane.
+Future Perfect Continuous Tense: He will have been flying a plane. 
+
+Simple Present Tense: She gives a lecture.
+Present Continuous Tense: She is giving a lecture.
+Present Perfect Tense: She has given a lecture.
+Present Perfect Continuous Tense: She has been giving a lecture.
+Simple Past Tense: She gave a lecture.
+Past Continuous Tense: She was giving a lecture.
+Past Perfect Tense: She had given a lecture.
+Past Perfect Continuous Tense: She had been giving a lecture.
+Simple Future Tense: She will give a lecture.
+Future Continuous Tense: She will be giving a lecture.
+Future Perfect Tense: She will have given a lecture.
+Future Perfect Continuous Tense: She will have been giving a lecture.
+
+Simple Present Tense: He sleeps.
+Present Continuous Tense: He is sleeping.
+Present Perfect Tense: He has slept.
+Present Perfect Continuous Tense: He has been sleeping.
+Simple Past Tense: He slept.
+Past Continuous Tense: He was sleeping.
+Past Perfect Tense: He had slept.
+Past Perfect Continuous Tense: He had been sleeping.
+Simple Future Tense: He will sleep.
+Future Continuous Tense: He will be sleeping.
+Future Perfect Tense: He will have slept.
+Future Perfect Continuous Tense: He will have been sleeping.
+
+Simple Present Tense: He calls her.
+Present Continuous Tense: He is calling her.
+Present Perfect Tense: He has called her.
+Present Perfect Continuous Tense: He has been calling her.
+Simple Past Tense: He called her.
+Past Continuous Tense: He was calling her.
+Past Perfect Tense: He had called her.
+Past Perfect Continuous Tense: He had been calling her.
+Simple Future Tense: He will call her.
+Future Continuous Tense: He will be calling her.
+Future Perfect Tense: He will have called her.
+Future Perfect Continuous Tense: He will have been calling her.
+
+Simple Present Tense: She leaves him.
+Present Continuous Tense: She is leaving him.
+Present Perfect Tense: She has left him.
+Present Perfect Continuous Tense: She has been leaving him.
+Simple Past Tense: She left him.
+Past Continuous Tense: She was leaving him.
+Past Perfect Tense: She had left him.
+Past Perfect Continuous Tense: She had been leaving him.
+Simple Future Tense: She will leave him.
+Future Continuous Tense: She will be leaving him.
+Future Perfect Tense: She will have left him.
+Future Perfect Continuous Tense: She will have been leaving him.
+
+Simple Present Tense: He makes her happy. 
+Present Continuous Tense: He is making her happy.
+Present Perfect Tense: He has made her happy.
+Present Perfect Continuous Tense: He has been making her happy.
+Simple Past Tense: He made her happy.
+Past Continuous Tense: He was making her happy.
+Past Perfect Tense: He had made her happy.
+Past Perfect Continuous Tense: He had been making her happy.
+Simple Future Tense: He will make her happy.
+Future Continuous Tense: He will be making her happy.
+Future Perfect Tense: He will have made her happy.
+Future Perfect Continuous Tense: He will have been making her happy.
+
+Simple Present Tense: She tells him.
+Present Continuous Tense: She is telling him.
+Present Perfect Tense: She has told him.
+Present Perfect Continuous Tense: She has been telling him.
+Simple Past Tense: She told him.
+Past Continuous Tense: She was telling him.
+Past Perfect Tense: She had told him.
+Past Perfect Continuous Tense: She had been telling him.
+Simple Future Tense: She will tell him.
+Future Continuous Tense: She will be telling him.
+Future Perfect Tense: She will have told him.
+Future Perfect Continuous Tense: She will have been telling him.
+
+Simple Present Tense: He lets her go.
+Present Continuous Tense: He is letting her go.
+Present Perfect Tense: He has let her go.
+Present Perfect Continuous Tense: He has been letting her go.
+Simple Past Tense: He let her go.
+Past Continuous Tense: He was letting her go.
+Past Perfect Tense: He had let her go.
+Past Perfect Continuous Tense: He had been letting her go.
+Simple Future Tense: He will let her go.
+Future Continuous Tense: He will be letting her go.
+Future Perfect Tense: He will have let her go.
+Future Perfect Continuous Tense: He will have been letting her go.
+
+Simple Present Tense: He takes her out.
+Present Continuous Tense: He is taking her out.
+Present Perfect Tense: He has taken her out.
+Present Perfect Continuous Tense: He has been taking her out.
+Simple Past Tense: He took her out.
+Past Continuous Tense: He was taking her out.
+Past Perfect Tense: He had taken her out.
+Past Perfect Continuous Tense: He had been taking her out.
+Simple Future Tense: He will take her out.
+Future Continuous Tense: He will be taking her out.
+Future Perfect Tense: He will have taken her out.
+Future Perfect Continuous Tense: He will have been taking her out. 
+
+Simple Present Tense: He likes her. 
+Present Continuous Tense: He is liking her. 
+Present Perfect Tense: He has liked her. 
+Present Perfect Continuous Tense: He has been liking her. 
+Simple Past Tense: He liked her. 
+Past Continuous Tense: He was liking her. 
+Past Perfect Tense: He had liked her. 
+Past Perfect Continuous Tense: He had been liking her. 
+Simple Future Tense: He will like her. 
+Future Continuous Tense: He will be liking her. 
+Future Perfect Tense: He will have liked her. 
+Future Perfect Continuous Tense: He will have been liking her.
+
+Simple Present Tense: She gives him a dollar.
+Present Continuous Tense: She is giving him a dollar.
+Present Perfect Tense: She has given him a dollar.
+Present Perfect Continuous Tense: She has been giving him a dollar.
+Simple Past Tense: She gave him a dollar.
+Past Continuous Tense: She was giving him a dollar.
+Past Perfect Tense: She had given him a dollar.
+Past Perfect Continuous Tense: She had been giving him a dollar.
+Simple Future Tense: She will give him a dollar.
+Future Continuous Tense: She will be giving him a dollar.
+Future Perfect Tense: She will have given him a dollar.
+Future Perfect Continuous Tense: She will have been giving him a dollar.
+
+Simple Present Tense: He believes it.
+Present Continuous Tense: He is believing it.
+Present Perfect Tense: He has believed it.
+Present Perfect Continuous Tense: He has been believing it.
+Simple Past Tense: He believed it.
+Past Continuous Tense: He was believing it.
+Past Perfect Tense: He had believed it.
+Past Perfect Continuous Tense: He had been believing it.
+Simple Future Tense: He will believe it.
+Future Continuous Tense: He will be believing it.
+Future Perfect Tense: He will have believed it.
+Future Perfect Continuous Tense: He will have been believing it.
+
+Simple Present Tense: She seems nice.
+Present Continuous Tense: She is seeming nice.
+Present Perfect Tense: She has seemed nice.
+Present Perfect Continuous Tense: She has been seeming nice.
+Simple Past Tense: She seemed nice.
+Past Continuous Tense: She was seeming nice.
+Past Perfect Tense: She had seemed nice.
+Past Perfect Continuous Tense: She had been seeming nice.
+Simple Future Tense: She will seem nice.
+Future Continuous Tense: She will be seeming nice.
+Future Perfect Tense: She will have seemed nice.
+Future Perfect Continuous Tense: She will have been seeming nice.
+
+Simple Present Tense: She runs.
+Present Continuous Tense: She is running.
+Present Perfect Tense: She has run.
+Present Perfect Continuous Tense: She has been running.
+Simple Past Tense: She ran.
+Past Continuous Tense: She was running.
+Past Perfect Tense: She had run.
+Past Perfect Continuous Tense: She had been running.
+Simple Future Tense: She will run.
+Future Continuous Tense: She will be running.
+Future Perfect Tense: She will have run.
+Future Perfect Continuous Tense: She will have been running.
+
+Simple Present Tense: She looks nice. 
+Present Continuous Tense: She is looking nice. 
+Present Perfect Tense: She has looked nice. 
+Present Perfect Continuous Tense: She has been looking nice. 
+Simple Past Tense: She looked nice. 
+Past Continuous Tense: She was looking nice. 
+Past Perfect Tense: She had looked nice. 
+Past Perfect Continuous Tense: She had been looking nice. 
+Simple Future Tense: She will look nice. 
+Future Continuous Tense: She will be looking nice. 
+Future Perfect Tense: She will have looked nice. 
+Future Perfect Continuous Tense: She will have been looking nice.
+
+Simple Present Tense: She walks.
+Present Continuous Tense: She is walking.
+Present Perfect Tense: She has walked.
+Present Perfect Continuous Tense: She has been walking.
+Simple Past Tense: She walked.
+Past Continuous Tense: She was walking.
+Past Perfect Tense: She had walked.
+Past Perfect Continuous Tense: She had been walking.
+Simple Future Tense: She will walk.
+Future Continuous Tense: She will be walking.
+Future Perfect Tense: She will have walked.
+Future Perfect Continuous Tense: She will have been walking.
+
+Simple Present Tense: It starts.
+Present Continuous Tense: It is starting.
+Present Perfect Tense: It has started.
+Present Perfect Continuous Tense: It has been starting.
+Simple Past Tense: It started.
+Past Continuous Tense: It was starting.
+Past Perfect Tense: It had started.
+Past Perfect Continuous Tense: It had been starting.
+Simple Future Tense: It will start.
+Future Continuous Tense: It will be starting.
+Future Perfect Tense: It will have started.
+Future Perfect Continuous Tense: It will have been starting.
+
+Simple Present Tense: He helps.
+Present Continuous Tense: He is helping.
+Present Perfect Tense: He has helped.
+Present Perfect Continuous Tense: He has been helping.
+Simple Past Tense: He helped.
+Past Continuous Tense: He was helping.
+Past Perfect Tense: He had helped.
+Past Perfect Continuous Tense: He had been helping.
+Simple Future Tense: He will help.
+Future Continuous Tense: He will be helping.
+Future Perfect Tense: He will have helped.
+Future Perfect Continuous Tense: He will have been helping.
+
+Simple Present Tense: He moves.
+Present Continuous Tense: He is moving.
+Present Perfect Tense: He has moved.
+Present Perfect Continuous Tense: He has been moving.
+Simple Past Tense: He moved.
+Past Continuous Tense: He was moving.
+Past Perfect Tense: He had moved.
+Past Perfect Continuous Tense: He had been moving.
+Simple Future Tense: He will move.
+Future Continuous Tense: He will be moving.
+Future Perfect Tense: He will have moved.
+Future Perfect Continuous Tense: He will have been moving.
+
+Simple Present Tense: He turns around.
+Present Continuous Tense: He is turning around.
+Present Perfect Tense: He has turned around.
+Present Perfect Continuous Tense: He has been turning around.
+Simple Past Tense: He turned around.
+Past Continuous Tense: He was turning around.
+Past Perfect Tense: He had turned around.
+Past Perfect Continuous Tense: He had been turning around.
+Simple Future Tense: He will turn around.
+Future Continuous Tense: He will be turning around.
+Future Perfect Tense: He will have turned around.
+Future Perfect Continuous Tense: He will have been turning around.
+
+Simple Present Tense: It happens. 
+Present Continuous Tense: It is happening.
+Present Perfect Tense: It has happened.
+Present Perfect Continuous Tense: It has been happening.
+Simple Past Tense: It happened.
+Past Continuous Tense: It was happening.
+Past Perfect Tense: It had happened.
+Past Perfect Continuous Tense: It had been happening.
+Simple Future Tense: It will happen.
+Future Continuous Tense: It will be happening.
+Future Perfect Tense: It will have happened.
+Future Perfect Continuous Tense: It will have been happening.
+
+Simple Present Tense: He arrives.
+Present Continuous Tense: He is arriving.
+Present Perfect Tense: He has arrived.
+Present Perfect Continuous Tense: He has been arriving.
+Simple Past Tense: He arrived.
+Past Continuous Tense: He was arriving.
+Past Perfect Tense: He had arrived.
+Past Perfect Continuous Tense: He had been arriving.
+Simple Future Tense: He will arrive.
+Future Continuous Tense: He will be arriving.
+Future Perfect Tense: He will have arrived.
+Future Perfect Continuous Tense: He will have been arriving.
+
+Simple Present Tense: She stops.
+Present Continuous Tense: She is stopping.
+Present Perfect Tense: She has stopped.
+Present Perfect Continuous Tense: She has been stopping.
+Simple Past Tense: She stopped.
+Past Continuous Tense: She was stopping.
+Past Perfect Tense: She had stopped.
+Past Perfect Continuous Tense: She had been stopping.
+Simple Future Tense: She will stop.
+Future Continuous Tense: She will be stopping.
+Future Perfect Tense: She will have stopped.
+Future Perfect Continuous Tense: She will have been stopping.
+
+Simple Present Tense: She pays a lot. 
+Present Continuous Tense: She is paying a lot. 
+Present Perfect Tense: She has paid a lot. 
+Present Perfect Continuous Tense: She has been paying a lot. 
+Simple Past Tense: She paid a lot. 
+Past Continuous Tense: She was paying a lot. 
+Past Perfect Tense: She had paid a lot. 
+Past Perfect Continuous Tense: She had been paying a lot. 
+Simple Future Tense: She will pay a lot. 
+Future Continuous Tense: She will be paying a lot. 
+Future Perfect Tense: She will have paid a lot. 
+Future Perfect Continuous Tense: She will have been paying a lot.
+
+Simple Present Tense: He smiles.
+Present Continuous Tense: He is smiling.
+Present Perfect Tense: He has smiled.
+Present Perfect Continuous Tense: He has been smiling.
+Simple Past Tense: He smiled.
+Past Continuous Tense: He was smiling.
+Past Perfect Tense: He had smiled.
+Past Perfect Continuous Tense: He had been smiling.
+Simple Future Tense: He will smile.
+Future Continuous Tense: He will be smiling.
+Future Perfect Tense: He will have smiled.
+Future Perfect Continuous Tense: He will have been smiling.
+
+Simple Present Tense: He sells a lot. 
+Present Continuous Tense: He is selling a lot.
+Present Perfect Tense: He has sold a lot.
+Present Perfect Continuous Tense: He has been selling a lot.
+Simple Past Tense: He sold a lot.
+Past Continuous Tense: He was selling a lot.
+Past Perfect Tense: He had sold a lot.
+Past Perfect Continuous Tense: He had been selling a lot.
+Simple Future Tense: He will sell a lot.
+Future Continuous Tense: He will be selling a lot.
+Future Perfect Tense: He will have sold a lot.
+Future Perfect Continuous Tense: He will have been selling a lot.
+
+Simple Present Tense: She gets up at 7:30.
+Present Continuous Tense: She is getting up at 7:30.
+Present Perfect Tense: She has gotten up at 7:30.
+Present Perfect Continuous Tense: She has been getting up at 7:30.
+Simple Past Tense: She got up at 7:30.
+Past Continuous Tense: She was getting up at 7:30.
+Past Perfect Tense: She had gotten up at 7:30.
+Past Perfect Continuous Tense: She had been getting up at 7:30.
+Simple Future Tense: She will get up at 7:30.
+Future Continuous Tense: She will be getting up at 7:30.
+Future Perfect Tense: She will have gotten up at 7:30.
+Future Perfect Continuous Tense: She will have been getting up at 7:30.
+
+Simple Present Tense: He allows it.
+Present Continuous Tense: He is allowing it.
+Present Perfect Tense: He has allowed it.
+Present Perfect Continuous Tense: He has been allowing it.
+Simple Past Tense: He allowed it.
+Past Continuous Tense: He was allowing it.
+Past Perfect Tense: He had allowed it.
+Past Perfect Continuous Tense: He had been allowing it.
+Simple Future Tense: He will allow it.
+Future Continuous Tense: He will be allowing it.
+Future Perfect Tense: He will have allowed it.
+Future Perfect Continuous Tense: He will have been allowing it.
+
+Simple Present Tense: He teaches.
+Present Continuous Tense: He is teaching.
+Present Perfect Tense: He has taught.
+Present Perfect Continuous Tense: He has been teaching.
+Simple Past Tense: He taught.
+Past Continuous Tense: He was teaching.
+Past Perfect Tense: He had taught.
+Past Perfect Continuous Tense: He had been teaching.
+Simple Future Tense: He will teach.
+Future Continuous Tense: He will be teaching.
+Future Perfect Tense: He will have taught.
+Future Perfect Continuous Tense: He will have been teaching.
+
+Simple Present Tense: She considers it important.
+Present Continuous Tense: She is considering it important.
+Present Perfect Tense: She has considered it important.
+Present Perfect Continuous Tense: She has been considering it important.
+Simple Past Tense: She considered it important.
+Past Continuous Tense: She was considering it important.
+Past Perfect Tense: She had considered it important.
+Past Perfect Continuous Tense: She had been considering it important.
+Simple Future Tense: She will consider it important.
+Future Continuous Tense: She will be considering it important.
+Future Perfect Tense: She will have considered it important.
+Future Perfect Continuous Tense: She will have been considering it important.
+
+Simple Present Tense: She applies it.
+Present Continuous Tense: She is applying it.
+Present Perfect Tense: She has applied it.
+Present Perfect Continuous Tense: She has been applying it.
+Simple Past Tense: She applied it.
+Past Continuous Tense: She was applying it.
+Past Perfect Tense: She had applied it.
+Past Perfect Continuous Tense: She had been applying it.
+Simple Future Tense: She will apply it.
+Future Continuous Tense: She will be applying it.
+Future Perfect Tense: She will have applied it.
+Future Perfect Continuous Tense: She will have been applying it.
+
+Simple Present Tense: he avoids it.
+Present Continuous Tense: he is avoiding it.
+Present Perfect Tense: he has avoided it.
+Present Perfect Continuous Tense: he has been avoiding it.
+Simple Past Tense: he avoided it.
+Past Continuous Tense: he was avoiding it.
+Past Perfect Tense: he had avoided it.
+Past Perfect Continuous Tense: he had been avoiding it.
+Simple Future Tense: he will avoid it.
+Future Continuous Tense: he will be avoiding it.
+Future Perfect Tense: he will have avoided it.
+Future Perfect Continuous Tense: he will have been avoiding it.
+
+Simple Present Tense: He bets.
+Present Continuous Tense: He is betting.
+Present Perfect Tense: He has bet.
+Present Perfect Continuous Tense: He has been betting.
+Simple Past Tense: He bet.
+Past Continuous Tense: He was betting.
+Past Perfect Tense: He had bet.
+Past Perfect Continuous Tense: He had been betting.
+Simple Future Tense: He will bet.
+Future Continuous Tense: He will be betting.
+Future Perfect Tense: He will have bet.
+Future Perfect Continuous Tense: He will have been betting.
+
+Simple Present Tense: It rises.
+Present Continuous Tense: It is rising.
+Present Perfect Tense: It has risen.
+Present Perfect Continuous Tense: It has been rising.
+Simple Past Tense: It rose.
+Past Continuous Tense: It was rising.
+Past Perfect Tense: It had risen.
+Past Perfect Continuous Tense: It had been rising.
+Simple Future Tense: It will rise.
+Future Continuous Tense: It will be rising.
+Future Perfect Tense: It will have risen.
+Future Perfect Continuous Tense: It will have been rising.
+
+Simple Present Tense: He admits it.
+Present Continuous Tense: He is admitting it.
+Present Perfect Tense: He has admitted it.
+Present Perfect Continuous Tense: He has been admitting it.
+Simple Past Tense: He admitted it.
+Past Continuous Tense: He was admitting it.
+Past Perfect Tense: He had admitted it.
+Past Perfect Continuous Tense: He had been admitting it.
+Simple Future Tense: He will admits it.
+Future Continuous Tense: He will be admitting it.
+Future Perfect Tense: He will have admitted it.
+Future Perfect Continuous Tense: He will have been admitting it.
+
+Simple Present Tense: She bakes.
+Present Continuous Tense: She is baking.
+Present Perfect Tense: She has baked.
+Present Perfect Continuous Tense: She has been baking.
+Simple Past Tense: She baked.
+Past Continuous Tense: She was baking.
+Past Perfect Tense: She had baked.
+Past Perfect Continuous Tense: She had been baking.
+Simple Future Tense: She will bake.
+Future Continuous Tense: She will be baking.
+Future Perfect Tense: She will have baked.
+Future Perfect Continuous Tense: She will have been baking.
+
+Simple Present Tense: He owes it.
+Present Continuous Tense: He is owing it.
+Present Perfect Tense: He has owed it.
+Present Perfect Continuous Tense: He has been owing it.
+Simple Past Tense: He owed it.
+Past Continuous Tense: He was owing it.
+Past Perfect Tense: He had owed it.
+Past Perfect Continuous Tense: He had been owing it.
+Simple Future Tense: He will owe it.
+Future Continuous Tense: He will be owing it.
+Future Perfect Tense: He will have owed it.
+Future Perfect Continuous Tense: He will have been owing it.
+
+Simple Present Tense: She wins.
+Present Continuous Tense: She is winning.
+Present Perfect Tense: She has won.
+Present Perfect Continuous Tense: She has been winning.
+Simple Past Tense: She won.
+Past Continuous Tense: She was winning.
+Past Perfect Tense: She had won.
+Past Perfect Continuous Tense: She had been winning.
+Simple Future Tense: She will win.
+Future Continuous Tense: She will be winning.
+Future Perfect Tense: She will have won.
+Future Perfect Continuous Tense: She will have been winning.
+
+Simple Present Tense: He creates something.
+Present Continuous Tense: He is creating something.
+Present Perfect Tense: He has created something.
+Present Perfect Continuous Tense: He has been creating something.
+Simple Past Tense: He created something.
+Past Continuous Tense: He was creating something.
+Past Perfect Tense: He had created something.
+Past Perfect Continuous Tense: He had been creating something.
+Simple Future Tense: He will create something.
+Future Continuous Tense: He will be creating something.
+Future Perfect Tense: He will have created something.
+Future Perfect Continuous Tense: He will have been creating something.
+
+Simple Present Tense: She causes something.
+Present Continuous Tense: She is causing something.
+Present Perfect Tense: She has caused something.
+Present Perfect Continuous Tense: She has been causing something.
+Simple Past Tense: She caused something.
+Past Continuous Tense: She was causing something.
+Past Perfect Tense: She had caused something.
+Past Perfect Continuous Tense: She had been causing something.
+Simple Future Tense: She will cause something.
+Future Continuous Tense: She will be causing something.
+Future Perfect Tense: She will have caused something.
+Future Perfect Continuous Tense: She will have been causing something.
+
+Simple Present Tense: She understands something.
+Present Continuous Tense: She is understanding something.
+Present Perfect Tense: She has understood something.
+Present Perfect Continuous Tense: She has been understanding something.
+Simple Past Tense: She understood something.
+Past Continuous Tense: She was understanding something.
+Past Perfect Tense: She had understood something.
+Past Perfect Continuous Tense: She had been understanding something.
+Simple Future Tense: She will understand something.
+Future Continuous Tense: She will be understanding something.
+Future Perfect Tense: She will have understood something.
+Future Perfect Continuous Tense: She will have been understanding something.
+
+Simple Present Tense: She joins the party.
+Present Continuous Tense: She is joining the party.
+Present Perfect Tense: She has joined the party.
+Present Perfect Continuous Tense: She has been joining the party.
+Simple Past Tense: She joined the party.
+Past Continuous Tense: She was joining the party.
+Past Perfect Tense: She had joined the party.
+Past Perfect Continuous Tense: She had been joining the party.
+Simple Future Tense: She will join the party.
+Future Continuous Tense: She will be joining the party.
+Future Perfect Tense: She will have joined the party.
+Future Perfect Continuous Tense: She will have been joining the party.
+
+Simple Present Tense: She grows something.
+Present Continuous Tense: She is growing something.
+Present Perfect Tense: She has grown something.
+Present Perfect Continuous Tense: She has been growing something.
+Simple Past Tense: She grew something.
+Past Continuous Tense: She was growing something.
+Past Perfect Tense: She had grown something.
+Past Perfect Continuous Tense: She had been growing something.
+Simple Future Tense: She will grow something.
+Future Continuous Tense: She will be growing something.
+Future Perfect Tense: She will have grown something.
+Future Perfect Continuous Tense: She will have been growing something.
+
+Simple Present Tense: He paints something.
+Present Continuous Tense: He is painting something.
+Present Perfect Tense: He has painted something.
+Present Perfect Continuous Tense: He has been painting something.
+Simple Past Tense: He painted something.
+Past Continuous Tense: He was painting something.
+Past Perfect Tense: He had painted something.
+Past Perfect Continuous Tense: He had been painting something.
+Simple Future Tense: He will paint something.
+Future Continuous Tense: He will be painting something.
+Future Perfect Tense: He will have painted something.
+Future Perfect Continuous Tense: He will have been painting something.
+
+Simple Present Tense: She produces something.
+Present Continuous Tense: She is producing something.
+Present Perfect Tense: She has produced something.
+Present Perfect Continuous Tense: She has been producing something.
+Simple Past Tense: She produced something.
+Past Continuous Tense: She was producing something.
+Past Perfect Tense: She had produced something.
+Past Perfect Continuous Tense: She had been producing something.
+Simple Future Tense: She will produce something.
+Future Continuous Tense: She will be producing something.
+Future Perfect Tense: She will have produced something.
+Future Perfect Continuous Tense: She will have been producing something.
+
+Simple Present Tense: He transports something.
+Present Continuous Tense: He is transporting something.
+Present Perfect Tense: He has transported something.
+Present Perfect Continuous Tense: He has been transporting something.
+Simple Past Tense: He transported something.
+Past Continuous Tense: He was transporting something.
+Past Perfect Tense: He had transported something.
+Past Perfect Continuous Tense: He had been transporting something.
+Simple Future Tense: He will transport something.
+Future Continuous Tense: He will be transporting something.
+Future Perfect Tense: He will have transported something.
+Future Perfect Continuous Tense: He will have been transporting something.
+
+Simple Present Tense: She improves something.
+Present Continuous Tense: She is improving something.
+Present Perfect Tense: She has improved something.
+Present Perfect Continuous Tense: She has been improving something.
+Simple Past Tense: She improved something.
+Past Continuous Tense: She was improving something.
+Past Perfect Tense: She had improved something.
+Past Perfect Continuous Tense: She had been improving something.
+Simple Future Tense: She will improve something.
+Future Continuous Tense: She will be improving something.
+Future Perfect Tense: She will have improved something.
+Future Perfect Continuous Tense: She will have been improving something.
+    
+Simple Present Tense: She buys.
+Present Continuous Tense: She is buying.
+Present Perfect Tense: She has bought.
+Present Perfect Continuous Tense: She has been buying.
+Simple Past Tense: She bought.
+Past Continuous Tense: She was buying.
+Past Perfect Tense: She had bought.
+Past Perfect Continuous Tense: She had been buying.
+Simple Future Tense: She will buy.
+Future Continuous Tense: She will be buying.
+Future Perfect Tense: She will have bought.
+Future Perfect Continuous Tense: She will have been buying.
+
+Simple Present Tense: He apologizes.
+Present Continuous Tense: He is apologizing.
+Present Perfect Tense: He has apologized.
+Present Perfect Continuous Tense: He has been apologizing.
+Simple Past Tense: He apologized.
+Past Continuous Tense: He was apologizing.
+Past Perfect Tense: He had apologized.
+Past Perfect Continuous Tense: He had been apologizing.
+Simple Future Tense: He will apologize.
+Future Continuous Tense: He will be apologizing.
+Future Perfect Tense: He will have apologized.
+Future Perfect Continuous Tense: He will have been apologizing.
+
+Simple Present Tense: He argues with someone.
+Present Continuous Tense: He is arguing with someone.
+Present Perfect Tense: He has argued with someone.
+Present Perfect Continuous Tense: He has been arguing with someone.
+Simple Past Tense: He argued with someone.
+Past Continuous Tense: He was arguing with someone.
+Past Perfect Tense: He had argued with someone.
+Past Perfect Continuous Tense: He had been arguing with someone.
+Simple Future Tense: He will argue with someone.
+Future Continuous Tense: He will be arguing with someone.
+Future Perfect Tense: He will have argued with someone.
+Future Perfect Continuous Tense: He will have been arguing with someone.
+
+Simple Present Tense: She begins her day.
+Present Continuous Tense: She is beginning her day.
+Present Perfect Tense: She has begun her day.
+Present Perfect Continuous Tense: She has been beginning her day.
+Simple Past Tense: She began her day.
+Past Continuous Tense: She was beginning her day.
+Past Perfect Tense: She had begun her day.
+Past Perfect Continuous Tense: She had been beginning her day.
+Simple Future Tense: She will begin her day.
+Future Continuous Tense: She will be beginning her day.
+Future Perfect Tense: She will have begun her day.
+Future Perfect Continuous Tense: She will have been beginning her day.
+
+Simple Present Tense: She designs something.
+Present Continuous Tense: She is designing something.
+Present Perfect Tense: She has designed something.
+Present Perfect Continuous Tense: She has been designing something.
+Simple Past Tense: She designed something.
+Past Continuous Tense: She was designing something.
+Past Perfect Tense: She had designed something.
+Past Perfect Continuous Tense: She had been designing something.
+Simple Future Tense: She will design something.
+Future Continuous Tense: She will be designing something.
+Future Perfect Tense: She will have designed something.
+Future Perfect Continuous Tense: She will have been designing something.
+
+Simple Present Tense: He repairs something.
+Present Continuous Tense: He is repairing something.
+Present Perfect Tense: He has repaired something.
+Present Perfect Continuous Tense: He has been repairing something.
+Simple Past Tense: He repaired something.
+Past Continuous Tense: He was repairing something.
+Past Perfect Tense: He had repaired something.
+Past Perfect Continuous Tense: He had been repairing something.
+Simple Future Tense: He will repair something.
+Future Continuous Tense: He will be repairing something.
+Future Perfect Tense: He will have repaired something.
+Future Perfect Continuous Tense: He will have been repairing something.
+
+Simple Present Tense: She earns some money.
+Present Continuous Tense: She is earning some money.
+Present Perfect Tense: She has earned some money.
+Present Perfect Continuous Tense: She has been earning some money.
+Simple Past Tense: She earned some money.
+Past Continuous Tense: She was earning some money.
+Past Perfect Tense: She had earned some money.
+Past Perfect Continuous Tense: She had been earning some money.
+Simple Future Tense: She will earn some money.
+Future Continuous Tense: She will be earning some money.
+Future Perfect Tense: She will have earned some money.
+Future Perfect Continuous Tense: She will have been earning some money.
+
+Simple Present Tense: He wears a shirt.
+Present Continuous Tense: He is wearing a shirt.
+Present Perfect Tense: He has worn a shirt.
+Present Perfect Continuous Tense: He has been wearing a shirt.
+Simple Past Tense: He wore a shirt.
+Past Continuous Tense: He was wearing a shirt.
+Past Perfect Tense: He had worn a shirt.
+Past Perfect Continuous Tense: He had been wearing a shirt.
+Simple Future Tense: He will wear a shirt.
+Future Continuous Tense: He will be wearing a shirt.
+Future Perfect Tense: He will have worn a shirt.
+Future Perfect Continuous Tense: He will have been wearing a shirt.
+
+Simple Present Tense: He infects someone.
+Present Continuous Tense: He is infecting someone.
+Present Perfect Tense: He has infected someone.
+Present Perfect Continuous Tense: He has been infecting someone.
+Simple Past Tense: He infected someone.
+Past Continuous Tense: He was infecting someone.
+Past Perfect Tense: He had infected someone.
+Past Perfect Continuous Tense: He had been infecting someone.
+Simple Future Tense: He will infect someone.
+Future Continuous Tense: He will be infecting someone.
+Future Perfect Tense: He will have infected someone.
+Future Perfect Continuous Tense: He will have been infecting someone.
+
+Simple Present Tense: She travels.
+Present Continuous Tense: She is traveling.
+Present Perfect Tense: She has traveled.
+Present Perfect Continuous Tense: She has been traveling.
+Simple Past Tense: She traveled.
+Past Continuous Tense: She was traveling.
+Past Perfect Tense: She had traveled.
+Past Perfect Continuous Tense: She had been traveling.
+Simple Future Tense: She will travel.
+Future Continuous Tense: She will be traveling.
+Future Perfect Tense: She will have traveled.
+Future Perfect Continuous Tense: She will have been traveling.
+
+Simple Present Tense: It sets out.
+Present Continuous Tense: It is setting out.
+Present Perfect Tense: It has set out.
+Present Perfect Continuous Tense: It has been setting out.
+Simple Past Tense: It set out.
+Past Continuous Tense: It was setting out.
+Past Perfect Tense: It had set out.
+Past Perfect Continuous Tense: It had been setting out.
+Simple Future Tense: It will set out.
+Future Continuous Tense: It will be setting out.
+Future Perfect Tense: It will have set out.
+Future Perfect Continuous Tense: It will have been setting out.
+    
+Simple Present Tense: He cuts it. 
+Present Continuous Tense: He is cutting it.
+Present Perfect Tense: He has cut it.
+Present Perfect Continuous Tense: He has been cutting it.
+Simple Past Tense: He cut it.
+Past Continuous Tense: He was cutting it.
+Past Perfect Tense: He had cut it.
+Past Perfect Continuous Tense: He had been cutting it.
+Simple Future Tense: He will cut it.
+Future Continuous Tense: He will be cutting it.
+Future Perfect Tense: He will have cut it.
+Future Perfect Continuous Tense: He will have been cutting it.
+
+Simple Present Tense: He corrects it.
+Present Continuous Tense: He is correcting it.
+Present Perfect Tense: He has corrected it.
+Present Perfect Continuous Tense: He has been correcting it.
+Simple Past Tense: He corrected it.
+Past Continuous Tense: He was correcting it.
+Past Perfect Tense: He had corrected it.
+Past Perfect Continuous Tense: He had been correcting it.
+Simple Future Tense: He will correct it.
+Future Continuous Tense: He will be correcting it.
+Future Perfect Tense: He will have corrected it.
+Future Perfect Continuous Tense: He will have been correcting it.
+
+Simple Present Tense: He finishes.
+Present Continuous Tense: He is finishing.
+Present Perfect Tense: He has finished.
+Present Perfect Continuous Tense: He has been finishing.
+Simple Past Tense: He finished.
+Past Continuous Tense: He was finishing.
+Past Perfect Tense: He had finished.
+Past Perfect Continuous Tense: He had been finishing.
+Simple Future Tense: He will finish.
+Future Continuous Tense: He will be finishing.
+Future Perfect Tense: He will have finished.
+Future Perfect Continuous Tense: He will have been finishing.
+
+Simple Present Tense: He loses.
+Present Continuous Tense: He is losing.
+Present Perfect Tense: He has lost.
+Present Perfect Continuous Tense: He has been losing.
+Simple Past Tense: He lost.
+Past Continuous Tense: He was losing.
+Past Perfect Tense: He had lost.
+Past Perfect Continuous Tense: He had been losing.
+Simple Future Tense: He will lose.
+Future Continuous Tense: He will be losing.
+Future Perfect Tense: He will have lost.
+Future Perfect Continuous Tense: He will have been losing.
+
+Simple Present Tense: She feels bad.
+Present Continuous Tense: She is feeling bad.
+Present Perfect Tense: She has felt bad.
+Present Perfect Continuous Tense: She has been feeling bad.
+Simple Past Tense: She felt bad.
+Past Continuous Tense: She was feeling bad.
+Past Perfect Tense: She had felt bad.
+Past Perfect Continuous Tense: She had been feeling bad.
+Simple Future Tense: She will feel bad.
+Future Continuous Tense: She will be feeling bad.
+Future Perfect Tense: She will have felt bad.
+Future Perfect Continuous Tense: She will have been feeling bad.
+
+Simple Present Tense: He cries.
+Present Continuous Tense: He is crying.
+Present Perfect Tense: He has cried.
+Present Perfect Continuous Tense: He has been crying.
+Simple Past Tense: He cried.
+Past Continuous Tense: He was crying.
+Past Perfect Tense: He had cried.
+Past Perfect Continuous Tense: He had been crying.
+Simple Future Tense: He will cry.
+Future Continuous Tense: He will be crying.
+Future Perfect Tense: He will have cried.
+Future Perfect Continuous Tense: He will have been crying.
+
+Simple Present Tense: He gets it.
+Present Continuous Tense: He is getting it.
+Present Perfect Tense: He has got it.
+Present Perfect Continuous Tense: He has been getting it.
+Simple Past Tense: He got it.
+Past Continuous Tense: He was getting it.
+Past Perfect Tense: He had got it.
+Past Perfect Continuous Tense: He had been getting it.
+Simple Future Tense: He will get it.
+Future Continuous Tense: He will be getting it.
+Future Perfect Tense: He will have got it.
+Future Perfect Continuous Tense: He will have been getting it.
+
+Simple Present Tense: He cares.
+Present Continuous Tense: He is caring.
+Present Perfect Tense: He has cared.
+Present Perfect Continuous Tense: He has been caring.
+Simple Past Tense: He cared.
+Past Continuous Tense: He was caring.
+Past Perfect Tense: He had cared.
+Past Perfect Continuous Tense: He had been caring.
+Simple Future Tense: He will care.
+Future Continuous Tense: He will be caring.
+Future Perfect Tense: He will have cared.
+Future Perfect Continuous Tense: He will have been caring.
+
+Simple Present Tense: She praises him.
+Present Continuous Tense: She is praising him.
+Present Perfect Tense: She has praised him.
+Present Perfect Continuous Tense: She has been praising him.
+Simple Past Tense: She praised him.
+Past Continuous Tense: She was praising him.
+Past Perfect Tense: She had praised him.
+Past Perfect Continuous Tense: She had been praising him.
+Simple Future Tense: She will praise him.
+Future Continuous Tense: She will be praising him.
+Future Perfect Tense: She will have praised him.
+Future Perfect Continuous Tense: She will have been praising him.
+
+Simple Present Tense: She listens.
+Present Continuous Tense: She is listening.
+Present Perfect Tense: She has listened.
+Present Perfect Continuous Tense: She has been listening.
+Simple Past Tense: She listened.
+Past Continuous Tense: She was listening.
+Past Perfect Tense: She had listened.
+Past Perfect Continuous Tense: She had been listening.
+Simple Future Tense: She will listen.
+Future Continuous Tense: She will be listening.
+Future Perfect Tense: She will have listened.
+Future Perfect Continuous Tense: She will have been listening.
+
+Simple Present Tense: She rides.
+Present Continuous Tense: She is riding.
+Present Perfect Tense: She has ridden.
+Present Perfect Continuous Tense: She has been riding.
+Simple Past Tense: She rode.
+Past Continuous Tense: She was riding.
+Past Perfect Tense: She had ridden.
+Past Perfect Continuous Tense: She had been riding.
+Simple Future Tense: She will ride.
+Future Continuous Tense: She will be riding.
+Future Perfect Tense: She will have ridden.
+Future Perfect Continuous Tense: She will have been riding.

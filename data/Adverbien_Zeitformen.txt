@@ -1,0 +1,149 @@
+past:yesterday
+past:yesterday morning
+past:yesterday evening
+past:yesterday night
+past:yesterday at lunch
+past:yesterday at breakfast
+past:yesterday at dinner
+past:before yesterday
+past:before monday
+past:before tuesday
+past:before wednesday
+past:before thursday
+past:before friday
+past:before saturday
+past:before sunday
+past:before last week
+past:before last day
+past:before this day
+past:before last year
+past:before this year
+past:before 1 pm
+past:before 9 am
+past:before 12 o'clock
+past:earlier
+past:earlier this morning
+past:earlier this day
+past:earlier this evening
+past:earlier this night
+past:last monday
+past:last tuesday
+past:last wednesday
+past:last thursday
+past:last friday
+past:last saturday
+past:last sunday
+past:last week
+past:last weekend
+past:last year
+past:last summer
+past:last spring
+past:last autumn
+past:last winter
+past:lately
+past:previously
+past:recently
+past_continuous:since this year
+past_continuous:since this week
+past_continuous:since this weekend
+past_continuous:since last year
+past_continuous:since last week
+past_continuous:since this weekend
+past_continuous:since monday
+past_continuous:since tuesday
+past_continuous:since wednesday
+past_continuous:since thursday
+past_continuous:since friday
+past_continuous:since saturday
+past_continuous:since sunday
+past_continuous:since last spring
+past_continuous:since last summer
+past_continuous:since last autumn
+past_continuous:since last winter
+past_continuous:since 1 pm
+past_continuous:since 12 o'clock
+past_continuous:since 9 am
+past:after today
+past:after this day
+past:after breakfast
+past:after lunch
+past:after dinner
+past:after this morning
+past:after this evening
+past:after this night
+past:after this week
+past:after this weekend
+past:after this year
+past:after this spring
+past:after this summer
+past:after this autumn
+past:after this winter
+past:after last week
+past:after last year
+past:after last morning
+past:after last evening
+past:after last night
+past:after last spring
+past:after last summer
+past:after last autumn
+past:after last winter
+past:after 2 o'clock
+past:after 9 o'clock
+past:after 1 pm
+past:after 7 am
+present_continuous:now
+present_continuous:at the moment
+present_continuous:this day
+present_continuous:today
+present:this day
+present:today
+future:next
+future:the next day
+future:next morning
+future:next evening
+future:next night
+future:next week
+future:next weekend
+future:next year
+future:next spring
+future:next summer
+future:next autumn
+future:next breakfast
+future:next lunch
+future:next dinner
+future:next winter
+future:later
+future:later today
+future:later this morning
+future:later this evening
+future:later this night
+future:later this day
+future:tomorrow
+future:tomorrow morning
+future:tomorrrow evening
+future:tomorrow night
+future:tomorrow at 12 o'clock
+future:tomorrow at 1 pm
+future:tomorrow at 7 am
+future:soon
+future:after today
+future:after this day
+future:after breakfast
+future:after lunch
+future:after dinner
+future:after this morning
+future:after this evening
+future:after this night
+future:after this week
+future:after this year
+future:after this spring
+future:after this summer
+future:after this autumn
+future:after this winter
+future:after this weekend
+future:then
+future_continuous:by tomorrow
+future_continuous:before the end of summer,
+future_continuous:by next week
+future_continuous:in a few weeks
+future_continuous:by the end of this year,
